@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Shenzhen",
+    "country": "China",
+    "category": 1,
+    "lat": 22.5431,
+    "lng": 114.0579,
+    "energy": "Mercury + Jupiter + Mars",
+    "interpretation": "Strong business, AI, manufacturing, expansion"
+  },
+  {
+    "name": "Guangzhou",
+    "country": "China",
+    "category": 1,
+    "lat": 23.1291,
+    "lng": 113.2644,
+    "energy": "Mercury + Jupiter",
+    "interpretation": "Trade, logistics, networking"
+  },
+  {
+    "name": "Hong Kong",
+    "country": "China",
+    "category": 1,
+    "lat": 22.3193,
+    "lng": 114.1694,
+    "energy": "Mercury + Venus",
+    "interpretation": "Finance, international business, networking"
+  },
+  {
+    "name": "Shanghai",
+    "country": "China",
+    "category": 1,
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "energy": "Mars + Jupiter",
+    "interpretation": "Powerful but stressful and competitive"
+  },
+  {
+    "name": "Hangzhou",
+    "country": "China",
+    "category": 1,
+    "lat": 30.2741,
+    "lng": 120.1551,
+    "energy": "Mercury + Mars",
+    "interpretation": "Technology and startup energy"
+  },
+  {
+    "name": "Suzhou",
+    "country": "China",
+    "category": 1,
+    "lat": 31.299,
+    "lng": 120.5853,
+    "energy": "Mercury",
+    "interpretation": "Structured business environment"
+  },
+  {
+    "name": "Nanjing",
+    "country": "China",
+    "category": 2,
+    "lat": 32.0603,
+    "lng": 118.7969,
+    "energy": "Mars",
+    "interpretation": "Ambitious but emotionally tiring"
+  },
+  {
+    "name": "Chongqing",
+    "country": "China",
+    "category": 2,
+    "lat": 29.563,
+    "lng": 106.5516,
+    "energy": "Mars",
+    "interpretation": "Intense pressure and nonstop movement"
+  },
+  {
+    "name": "Wuhan",
+    "country": "China",
+    "category": 3,
+    "lat": 30.5928,
+    "lng": 114.3055,
+    "energy": "Neptune + Mars",
+    "interpretation": "Confusion and emotional instability"
+  },
+  {
+    "name": "Changsha",
+    "country": "China",
+    "category": 2,
+    "lat": 28.2282,
+    "lng": 112.9388,
+    "energy": "Mars",
+    "interpretation": "Competitive and exhausting"
+  },
+  {
+    "name": "Beijing",
+    "country": "China",
+    "category": 3,
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "energy": "Saturn + Mars",
+    "interpretation": "Heavy bureaucracy and authority pressure"
+  },
+  {
+    "name": "Tianjin",
+    "country": "China",
+    "category": 3,
+    "lat": 39.1255,
+    "lng": 117.1901,
+    "energy": "Saturn",
+    "interpretation": "Slow progress and emotional heaviness"
+  },
+  {
+    "name": "Chengdu",
+    "country": "China",
+    "category": 1,
+    "lat": 30.5728,
+    "lng": 104.0668,
+    "energy": "Mixed Soft Energy",
+    "interpretation": "Relaxed but slower momentum"
+  },
+  {
+    "name": "Kunming",
+    "country": "China",
+    "category": 1,
+    "lat": 25.0406,
+    "lng": 102.7122,
+    "energy": "Soft Mixed Energy",
+    "interpretation": "Balanced and calmer lifestyle"
+  },
+  {
+    "name": "Lanzhou",
+    "country": "China",
+    "category": 3,
+    "lat": 36.0611,
+    "lng": 103.8343,
+    "energy": "Saturn-like",
+    "interpretation": "Isolation and stagnation"
+  },
+  {
+    "name": "Urumqi",
+    "country": "China",
+    "category": 3,
+    "lat": 43.8256,
+    "lng": 87.6168,
+    "energy": "Saturn-like",
+    "interpretation": "Disconnected and slow growth"
+  },
+  {
+    "name": "Lhasa",
+    "country": "China",
+    "category": 3,
+    "lat": 29.6469,
+    "lng": 91.1172,
+    "energy": "Neptune",
+    "interpretation": "Spiritual but detached"
+  },
+  {
+    "name": "Xiamen",
+    "country": "China",
+    "category": 1,
+    "lat": 24.4798,
+    "lng": 118.0894,
+    "energy": "Mercury + Venus",
+    "interpretation": "Comfort and business balance"
+  },
+  {
+    "name": "Qingdao",
+    "country": "China",
+    "category": 3,
+    "lat": 36.0671,
+    "lng": 120.3826,
+    "energy": "Saturn + Mars",
+    "interpretation": "Mentally demanding environment"
+  },
+  {
+    "name": "Harbin",
+    "country": "China",
+    "category": 3,
+    "lat": 45.8038,
+    "lng": 126.535,
+    "energy": "Saturn",
+    "interpretation": "Cold and isolating"
+  },
+  {
+    "name": "Yangshuo",
+    "country": "China",
+    "category": 1,
+    "lat": 24.7767,
+    "lng": 110.4913,
+    "energy": "Moon + Venus-like",
+    "interpretation": "Calm, reflective and peaceful"
+  },
+  {
+    "name": "Singapore",
+    "country": "Singapore",
+    "category": 1,
+    "lat": 1.3521,
+    "lng": 103.8198,
+    "energy": "Mercury + Jupiter",
+    "interpretation": "Business systems and networking"
+  },
+  {
+    "name": "Bangkok",
+    "country": "Thailand",
+    "category": 1,
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "energy": "Venus + Moon",
+    "interpretation": "Comfort and emotional recovery"
+  },
+  {
+    "name": "Chiang Mai",
+    "country": "Thailand",
+    "category": 1,
+    "lat": 18.7883,
+    "lng": 98.9853,
+    "energy": "Moon",
+    "interpretation": "Peaceful and reflective"
+  },
+  {
+    "name": "Phuket",
+    "country": "Thailand",
+    "category": 1,
+    "lat": 7.8804,
+    "lng": 98.3922,
+    "energy": "Venus",
+    "interpretation": "Relaxed and socially easier"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "category": 1,
+    "lat": 3.139,
+    "lng": 101.6869,
+    "energy": "Mercury + Venus",
+    "interpretation": "Balanced commercial energy"
+  },
+  {
+    "name": "Penang",
+    "country": "Malaysia",
+    "category": 1,
+    "lat": 5.4141,
+    "lng": 100.3288,
+    "energy": "Venus",
+    "interpretation": "Calmer lifestyle and comfort"
+  },
+  {
+    "name": "Doha",
+    "country": "Qatar",
+    "category": 3,
+    "lat": 25.2854,
+    "lng": 51.531,
+    "energy": "Saturn + Neptune",
+    "interpretation": "Pressure, confusion and exhaustion"
+  },
+  {
+    "name": "Dubai",
+    "country": "UAE",
+    "category": 3,
+    "lat": 25.2048,
+    "lng": 55.2708,
+    "energy": "Saturn",
+    "interpretation": "Competitive and emotionally draining"
+  },
+  {
+    "name": "Abu Dhabi",
+    "country": "UAE",
+    "category": 3,
+    "lat": 24.4539,
+    "lng": 54.3773,
+    "energy": "Saturn",
+    "interpretation": "Heavy responsibilities and pressure"
+  },
+  {
+    "name": "Muscat",
+    "country": "Oman",
+    "category": 1,
+    "lat": 23.5859,
+    "lng": 58.4059,
+    "energy": "Mixed Softer Energy",
+    "interpretation": "Calmer and stabilizing atmosphere"
+  },
+  {
+    "name": "Casablanca",
+    "country": "Morocco",
+    "category": 3,
+    "lat": 33.5731,
+    "lng": -7.5898,
+    "energy": "Saturn + Neptune",
+    "interpretation": "Heavy and uncertain atmosphere"
+  },
+  {
+    "name": "Marrakesh",
+    "country": "Morocco",
+    "category": 3,
+    "lat": 31.6295,
+    "lng": -7.9811,
+    "energy": "Neptune",
+    "interpretation": "Emotionally unclear and unstable"
+  },
+  {
+    "name": "Johannesburg",
+    "country": "South Africa",
+    "category": 1,
+    "lat": -26.2041,
+    "lng": 28.0473,
+    "energy": "Mars + Jupiter",
+    "interpretation": "Transformation and business survival energy"
+  },
+  {
+    "name": "Cape Town",
+    "country": "South Africa",
+    "category": 1,
+    "lat": -33.9249,
+    "lng": 18.4232,
+    "energy": "Mixed Energy",
+    "interpretation": "Creative and transitional atmosphere"
+  },
+  {
+    "name": "Durban",
+    "country": "South Africa",
+    "category": 2,
+    "lat": -29.8587,
+    "lng": 31.0218,
+    "energy": "Mars",
+    "interpretation": "Movement and rebuilding energy"
+  },
+  {
+    "name": "London",
+    "country": "United Kingdom",
+    "category": 3,
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "energy": "Saturn",
+    "interpretation": "Cold and emotionally restrictive"
+  },
+  {
+    "name": "Manchester",
+    "country": "United Kingdom",
+    "category": 3,
+    "lat": 53.4808,
+    "lng": -2.2426,
+    "energy": "Saturn",
+    "interpretation": "Heavy responsibility and isolation"
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "category": 3,
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "energy": "Neptune + Saturn",
+    "interpretation": "Confusion and emotional heaviness"
+  },
+  {
+    "name": "Berlin",
+    "country": "Germany",
+    "category": 3,
+    "lat": 52.52,
+    "lng": 13.405,
+    "energy": "Saturn",
+    "interpretation": "Structured but emotionally distant"
+  },
+  {
+    "name": "Toronto",
+    "country": "Canada",
+    "category": 2,
+    "lat": 43.6532,
+    "lng": -79.3832,
+    "energy": "Mars + Jupiter",
+    "interpretation": "Ambitious but stressful"
+  },
+  {
+    "name": "Vancouver",
+    "country": "Canada",
+    "category": 2,
+    "lat": 49.2827,
+    "lng": -123.1207,
+    "energy": "Moon + Mars",
+    "interpretation": "Emotionally intense but dynamic"
+  },
+  {
+    "name": "California",
+    "country": "USA",
+    "category": 2,
+    "lat": 36.7783,
+    "lng": -119.4179,
+    "energy": "Mars + Sun",
+    "interpretation": "Breakthroughs and burnout risk"
+  },
+  {
+    "name": "New York",
+    "country": "USA",
+    "category": 3,
+    "lat": 40.7128,
+    "lng": -74.006,
+    "energy": "Mars + Saturn",
+    "interpretation": "Pressure and aggressive ambition"
+  },
+  {
+    "name": "Texas",
+    "country": "USA",
+    "category": 2,
+    "lat": 31.9686,
+    "lng": -99.9018,
+    "energy": "Mars",
+    "interpretation": "Strong survival and movement energy"
+  },
+  {
+    "name": "Sao Paulo",
+    "country": "Brazil",
+    "category": 2,
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "energy": "Mars + Jupiter",
+    "interpretation": "Expansion mixed with chaos"
+  },
+  {
+    "name": "Rio de Janeiro",
+    "country": "Brazil",
+    "category": 3,
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "energy": "Neptune + Mars",
+    "interpretation": "Emotionally unstable but energetic"
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "category": 2,
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "energy": "Mercury + Mars",
+    "interpretation": "Technology and nonstop activity"
+  },
+  {
+    "name": "Osaka",
+    "country": "Japan",
+    "category": 1,
+    "lat": 34.6937,
+    "lng": 135.5023,
+    "energy": "Mercury",
+    "interpretation": "Commercial and networking energy"
+  },
+  {
+    "name": "Seoul",
+    "country": "South Korea",
+    "category": 2,
+    "lat": 37.5665,
+    "lng": 126.978,
+    "energy": "Mars + Mercury",
+    "interpretation": "Fast-paced and mentally intense"
+  },
+  {
+    "name": "Mumbai",
+    "country": "India",
+    "category": 1,
+    "lat": 19.076,
+    "lng": 72.8777,
+    "energy": "Mars + Saturn",
+    "interpretation": "Pressure and hard competition"
+  },
+  {
+    "name": "Bangalore",
+    "country": "India",
+    "category": 2,
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "energy": "Mercury + Mars",
+    "interpretation": "Technology and startup movement"
+  },
+  {
+    "name": "Kerala",
+    "country": "India",
+    "category": 1,
+    "lat": 10.8505,
+    "lng": 76.2711,
+    "energy": "Moon",
+    "interpretation": "Emotional and reflective energy"
+  }
+]
