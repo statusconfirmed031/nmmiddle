@@ -7,6 +7,9 @@ import { appRouter } from "../server/routers";
 import { createContext } from "../server/_core/context";
 import { serveStatic } from "../server/_core/vite";
 
+// Ensure NODE_ENV is production for Vercel
+process.env.NODE_ENV = "production";
+
 const app = express();
 
 // Configure body parser
